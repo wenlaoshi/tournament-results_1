@@ -1,0 +1,20 @@
+Project Two: Tournament
+Full Stack Web Developer Nanodegree
+-------------
+
+Resubmitted Project Changes (2015-03-05):
+-------------
+The project now contains this README and code changes to support tie matches.
+
+Original Submission (2015-03-04):
+-------------
+This project uses Python modules and a PostgreSQL database to keep track of players 
+and matches for a Swiss style game tournament.
+
+The project contains the following 3 files:
+   tournament_test.py
+   tournament.py
+   tournament.sql
+
+The .sql file contains the necessary PostgreSQL statements to setup the database.
+The test file tests the functionality of the modules in tournament.py.
